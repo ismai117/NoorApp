@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1001025266392",
+    "project_id": "noor-60d7d",
+    "storage_bucket": "noor-60d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001025266392:android:2a4ab497e0df15c8a3adad",
+        "android_client_info": {
+          "package_name": "com.example.noorapp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001025266392-3gsvtuc493sv2h5tiag6jl21efvhh288.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhdTKPIlKRP0brTQmoORl2KXBQtphXTWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001025266392-3gsvtuc493sv2h5tiag6jl21efvhh288.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001025266392:android:a0778b5512ce0f42a3adad",
+        "android_client_info": {
+          "package_name": "com.im.noor.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001025266392-3gsvtuc493sv2h5tiag6jl21efvhh288.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhdTKPIlKRP0brTQmoORl2KXBQtphXTWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001025266392-3gsvtuc493sv2h5tiag6jl21efvhh288.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
